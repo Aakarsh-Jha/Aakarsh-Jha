@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🌱 I’m currently learning Data Structure and Algorithms and also Cloud Computing.
+- 🌱 I’m currently learning Data Structure and Algorithms.
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakarsh-jha) 
